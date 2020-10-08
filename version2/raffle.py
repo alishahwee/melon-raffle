@@ -4,3 +4,9 @@
 
 # Hint: remember to import any functions you need from
 # other files or libraries
+
+from random import choice
+import customers
+from .raffle import *
+
+
